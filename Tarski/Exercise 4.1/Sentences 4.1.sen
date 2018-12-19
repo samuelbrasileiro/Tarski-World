@@ -1,0 +1,2 @@
+7.2.4.28445macs:Mac OS X10.14.1SntFC1543608914697D1543611520822S934411/x/y(x#y&Tet(x)&Tet(y))/x/y/z(x#y&x#z&y#z&Tet(x)&Tet(y)&Tet(z))/x/y(x#y&Dodec(x)&Dodec(y))/x/y/z(x#y&x#z&y#z&Dodec(x)&Dodec(y)&Dodec(z))/x/y(Small(x)&Tet(x)&Small(y)&Cube(y)& BackOf(x, y)) | 
+~/x/y(Small(x)&Tet(x)&Small(y)&Cube(y)& BackOf(x, y))@x((Large(x)&Cube(x))$/y FrontOf(x,y))@x(Tet(x)$/y(BackOf(x,y)))@x((Small(x)&Cube(x))$/y BackOf(x,y))@x(Cube(x)$/y(BackOf(y,x)))@x(Dodec(x)$(Small(x)|Medium(x)|Large(x)))@x(Dodec(x)&LeftOf(e,x))$~Dodec(e)s=80071;
